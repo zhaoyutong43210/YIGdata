@@ -1,13 +1,28 @@
-# Data_analysis
-The codes for data analysis in Group Hu
+# The data measurement and analysis project for YIGSphere.com
+
+The open sourced codes includs the data measurement.
+
+## YIG spheres
+
+To get yigspheres, please visit www.yigsphere.com 
+
+## Data measurement (experimental)
+
+Requirements: MATLAB and lab equipments
 
 
-The motivation of writing such website is sharing the MATLAB codes among gruop and increase the efficiency of the work.
-Use without permission is only provide to the members of Group Hu, including past memeber, current member.
-Any other use need get the permission from the aurthor. 
-Redistribute for commerial use is strictly forbidden. 
+## Data analysis (experimental)
 
-Thanks to all memeber in the group. Hope these codes can accelerate your research and make you life easier.
+Requirements: MATLAB and data collected from lab equipments
+
+## Numerical calculation and analysis (theoretical)
+
+Requirements: MATLAB or Python
+
+## Acknowledgements
+
+Thanks to all memeber in the spintronics group (Group HU) in univerisity of Manitoba.
+Hope these codes can accelerate your research and make you life easier.
 
 Yutong Zhao 
-Dec 20th 2019.
+Oct 31st 2022.
