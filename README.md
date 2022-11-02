@@ -1,4 +1,4 @@
-# The data measurement and analysis project for Spintronics 
+# The data measurement/analysis project for Spintronics Research
 
 **this for user from YIGSphere.com and researchers in spintronics that involved with YIG spheres**
 
