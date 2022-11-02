@@ -4,7 +4,7 @@
 
 The open sourced codes includs the data measurement.
 
-## YIG spheres
+## Getting YIG spheres
 
 To get yigspheres, please visit www.yigsphere.com 
 
