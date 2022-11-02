@@ -1,4 +1,6 @@
-# The data measurement and analysis project for YIGSphere.com
+# The data measurement and analysis project for Spintronics 
+
+**this for user from YIGSphere.com and researchers in spintronics that involved with YIG spheres**
 
 The open sourced codes includs the data measurement.
 
