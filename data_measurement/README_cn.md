@@ -1,17 +1,13 @@
-# 自旋电子学研究中的数据采集及数据分析项目
+# 数据测量
 
-[English Version](README.md)
+## 自旋电子学中的常用仪器
 
-**由 YIGSphere.com 发起， 该项目涉及YIG相关研究的开源项目**
+* Vector Network Analyzer (VNA)
+* Signal Generator (SG)
+* Spectrum Analyser (SA)
+* Lock-in Amplifier
 
-
-## 如何获得 YIG spheres
-
-请移步 www.yigsphere.com
-
-## 数据采集(实验)
-
-使用: MATLAB 以及 各种实验仪器
+## 通讯协议 Communication protocols
 
 仪器控制：
 &nbsp; NI系列： NI-488.2协议（GPIB卡+线缆）、 NI串口协议（NI-serial）、 NI-VXI协议等。
@@ -27,18 +23,12 @@ Keysight PNA 5230C  [官方文档](https://www.keysight.com/en/pd-1350041-pn-N52
 
 矢量网络分析仪 ENA 5080 [官方文档](https://www.keysight.com/main/techSupport.jspx?cc=CA&lc=eng&nid=-32496.1150378&pid=x202208&pageMode=PL)
 
-## 数据分析 (实验数据)
+## Common used communication language
 
-Requirements: MATLAB and data collected from lab equipments
+* MATLAB
+* Python
+* LABView
 
-## 数值计算和分析 (理论)
+## List of Code
 
-使用: MATLAB 或者 python
 
-## 致谢
-
-Thanks to all members in the spintronics group (Group HU) in University of Manitoba.
-Hope these codes can accelerate your research and make you life easier.
-
-Yutong Zhao
-Oct 31st 2022.
