@@ -1,12 +1,14 @@
 # The data measurement/analysis project for Spintronics Research
 
+[中文版](README_cn.md)
+
 **this for user from YIGSphere.com and researchers in spintronics that involved with YIG spheres**
 
 The open sourced codes includs the data measurement.
 
 ## Getting YIG spheres
 
-To get yigspheres, please visit www.yigsphere.com 
+To get YIG spheres, please visit www.yigsphere.com
 
 ## Data measurement (experimental)
 
@@ -23,8 +25,8 @@ Requirements: MATLAB or Python
 
 ## Acknowledgements
 
-Thanks to all memeber in the spintronics group (Group HU) in univerisity of Manitoba.
+Thanks to all members in the spintronics group (Group HU) in the University of Manitoba.
 Hope these codes can accelerate your research and make you life easier.
 
-Yutong Zhao 
+Yutong Zhao
 Oct 31st 2022.
