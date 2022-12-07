@@ -1,12 +1,13 @@
 # data measurement
 
+[中文版](README_cn.md)
 
 ## Lab equipment for spintronics research
 
 * Vector Network Analyzer (VNA)
-* Signal Generator (SG)
-* Spectrum Analyser (SA)
 * Lock-in Amplifier
+* 微波信号发生器（Microwave Signal Generator）
+* 频谱分析仪 （Spectrum Analyer）
 
 ## Communication protocols
 
