@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "Data_analysis"
+  spec.name          = "YIGdata"
   spec.version       = "1.8.0"
   spec.authors       = ["Yutong Zhao"]
   spec.email         = ["yutong.zhao@yigsphere.com"]
