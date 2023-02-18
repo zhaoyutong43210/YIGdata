@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "VNA-矢量网络分析仪 简介"
+author: yt
+categories: [magnetic material, research]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Netzwerkanalysator_ZVA40_RSD.jpg"
+---
+
+
+矢量网络分析仪 (VNA) 是一种用于射频 (RF) 和微波工程领域的测试设备，用于测量网络电响应的幅度和相位。
+第一台 VNA 由惠普（现为安捷伦科技）于 1950 年代末和 1960 年代初推出，此后成为射频和微波工程师和技术人员的必备工具。
+多年来，VNA 不断发展和改进，提供了更高的精度、更大的频率范围和更快的测量速度。
+如今，VNA 广泛应用于电信、航空航天和国防等各个行业，以测试、设计和制造射频和微波元件，例如滤波器、放大器和天线。
+
+根据Keysight网站数据，VNA的频率分析范围从1Hz至1.5THz。
