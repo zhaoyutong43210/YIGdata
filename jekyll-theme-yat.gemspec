@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-yat"
+  spec.name          = "Data_analysis"
   spec.version       = "1.8.0"
   spec.authors       = ["Yutong Zhao"]
   spec.email         = ["yutong.zhao@yigsphere.com"]
 
-  spec.summary       = "YIGsphere.com"
+  spec.summary       = "YIGsphere.com blog about YIG properties and research advance"
   spec.homepage      = "https://yigsphere.com/"
   spec.license       = "MIT"
 
