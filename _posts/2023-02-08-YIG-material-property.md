@@ -1,18 +1,29 @@
 ---
 layout: post
-title:  "钇铁石榴石铁磁共振的低功率非线性效应"
+title:  "YIG球中铁磁共振的低功率非线性效应 | 文献推荐：(10.1063/1.336167)"
 author: yt
-categories: [magnetic material, research]
+categories: [YIG科研进展 ,YIG相关文献]
 image: assets/images/YIG/10.1063-1.336167/FIG2.png
 ---
 
 ### 文章推荐：YIG中的磁晶各向异性和非线性效应：
 
+这篇发表于1985年的文章揭示了YIG球的**非线性效应与磁晶各项异性**的关系。
+
+![foldover](https://upload.wikimedia.org/wikipedia/commons/a/ae/Nonlinear_oscillator_-_foldover_effect.png)
+
+由于YIG的磁晶各向异性导致了铁磁共振中非线性项的存在。因此，YIG的铁磁共振会出现非线性导致的foldover效应。
+
+![foldover](https://cse.umn.edu/sites/cse.umn.edu/files/Image18.gif)
+
+磁晶各向异性是亚铁磁体的固有特性，与晶粒尺寸和形状无关。通过测量沿不同晶体方向的磁化曲线，可得到图中曲线，图片中并非YIG材料，而是磁铁矿晶体。在此为了说明磁晶各项异性的表现。
+(<111>为易磁化的方向(易轴)，<100>是难磁化的方向(难轴)，<110>是中间磁化难度的方向(中间轴)。)
+
 ### YIG铁磁共振磁晶各向异性的关键性进展
 
 McKinstry, Kevin D., Carl E. Patton, and Milind Kogekar. "Low power nonlinear effects in the ferromagnetic resonance of yttrium iron garnet." Journal of applied physics 58.2 (1985): 925-929.
 
-*　[文章连接]( https://aip.scitation.org/doi/abs/10.1063/1.336167)
+*　[文章连接](https://aip.scitation.org/doi/abs/10.1063/1.336167)
 
 *　[Sci-hub入口](https://sci-hub.ru/10.1063/1.336167)
 
@@ -65,4 +76,4 @@ FIG.9 - FIG.5中的结果，偏转磁场30度再测了一遍。显示出了非�
 
 ### 总结：
 
- YIG的非线性效应（foldover effect）与磁晶各向异性高度相关，并形成异常的高频驱动下的磁滞回线（loop）。使用微波短脉冲时进行实验时，这些非线性效应消失了。
+ YIG的非线性效应（foldover effect）与磁晶各向异性高度相关，并形成异常的高频驱动下的磁滞回线（loop）。使用超短微波短脉冲时进行实验时，这些非线性效应逐渐消失了。
