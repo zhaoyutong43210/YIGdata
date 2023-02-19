@@ -46,7 +46,7 @@ description: # this means to ignore newlines until "baseurl:"
   "磁振精密材料 高质量 钇铁石榴石单晶球体 YIG sphere | 科研 | 微波产品。"
 
 baseurl: /YIGdata # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: /YIGdata # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
