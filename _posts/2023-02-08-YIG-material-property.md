@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "YIG球中铁磁共振的低功率非线性效应 | 文献推荐：(10.1063/1.336167)"
-author: yt
-categories: [YIG科研进展, YIG相关文献]
-#image: assets/images/YIG/10.1063-1.336167/FIG2.png
+title: "YIG球中铁磁共振的低功率非线性效应 | 文献推荐：(10.1063/1.336167)"
+subtitle: "1985：YIG球的非线性效应与磁晶各项异性的早期研究"
+categories: markdown
+tags: [YIG科研进展]
 ---
 
 ### 文章推荐：YIG中的磁晶各向异性和非线性效应：

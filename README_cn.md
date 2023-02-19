@@ -1,4 +1,6 @@
-# 自旋电子学研究中的数据采集及数据分析项目
+# YIGdata
+
+## 自旋电子学研究中的数据采集及数据分析项目
 
 [English Version](README.md)
 
