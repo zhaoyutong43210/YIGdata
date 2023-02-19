@@ -3,7 +3,7 @@ layout: post
 title:  "YIG球中铁磁共振的低功率非线性效应 | 文献推荐：(10.1063/1.336167)"
 author: yt
 categories: [YIG科研进展, YIG相关文献]
-image: assets/images/YIG/10.1063-1.336167/FIG2.png
+#image: assets/images/YIG/10.1063-1.336167/FIG2.png
 ---
 
 ### 文章推荐：YIG中的磁晶各向异性和非线性效应：
@@ -38,7 +38,7 @@ McKinstry, Kevin D., Carl E. Patton, and Milind Kogekar. "Low power nonlinear ef
 晶相的确定方法为： 进动型 X 射线衍射照相机(x-ray precession camera methods)。
 相关资料：[1960 年代，贝尔电话实验室的晶相确定方法](https://www.youtube.com/watch?v=Ojm_R1t9is4)， 需要连接youtube。如果你能看到视频，则会明白这种测定单晶体晶相的方法绝对精准，但是非常费时费力。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG1.png)
+![实验装置](assets/images/YIG/10.1063-1.336167/FIG1.png)
 
 FIG.1 - 实验装置。除了电磁铁和高斯计，这个实验组在1980年代基本上靠着各种部件（基于Varian的电子顺磁共振仪）自己搭建了一台微波频段的[VNA](https://en.wikipedia.org/wiki/Network_analyzer_(electrical))，包括CW模式和pulse模式。脉冲微波功率由精细衰减器控制，脉冲长度从 5 皮秒到 10 毫秒。微波的最大功率为258毫瓦，对应 50 mOe 的微波驱动场强。
 右上角部分为微波发生装置，右下部分则为微波分析装置，左侧装置则为微波功率的精细调节装置。
