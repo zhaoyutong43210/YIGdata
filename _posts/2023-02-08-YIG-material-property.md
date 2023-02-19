@@ -2,7 +2,7 @@
 layout: post
 title:  "YIG球中铁磁共振的低功率非线性效应 | 文献推荐：(10.1063/1.336167)"
 author: yt
-categories: [YIG科研进展 ,YIG相关文献]
+categories: [YIG科研进展, YIG相关文献]
 image: assets/images/YIG/10.1063-1.336167/FIG2.png
 ---
 
@@ -12,9 +12,13 @@ image: assets/images/YIG/10.1063-1.336167/FIG2.png
 
 ![foldover](https://upload.wikimedia.org/wikipedia/commons/a/ae/Nonlinear_oscillator_-_foldover_effect.png)
 
+Foldover效应， 比如[杜芬振子-Duffing Oscillator](https://en.wikipedia.org/wiki/Duffing_equation)
+
 由于YIG的磁晶各向异性导致了铁磁共振中非线性项的存在。因此，YIG的铁磁共振会出现非线性导致的foldover效应。
 
 ![foldover](https://cse.umn.edu/sites/cse.umn.edu/files/Image18.gif)
+
+磁铁矿晶体的磁晶各项异性。（与YIG类似）
 
 磁晶各向异性是亚铁磁体的固有特性，与晶粒尺寸和形状无关。通过测量沿不同晶体方向的磁化曲线，可得到图中曲线，图片中并非YIG材料，而是磁铁矿晶体。在此为了说明磁晶各项异性的表现。
 (<111>为易磁化的方向(易轴)，<100>是难磁化的方向(难轴)，<110>是中间磁化难度的方向(中间轴)。)
