@@ -45,38 +45,38 @@ McKinstry, Kevin D., Carl E. Patton, and Milind Kogekar. "Low power nonlinear ef
 FIG.1 - 实验装置。除了电磁铁和高斯计，这个实验组在1980年代基本上靠着各种部件（基于Varian的电子顺磁共振仪）自己搭建了一台微波频段的[VNA](https://en.wikipedia.org/wiki/Network_analyzer_(electrical))，包括CW模式和pulse模式。脉冲微波功率由精细衰减器控制，脉冲长度从 5 皮秒到 10 毫秒。微波的最大功率为258毫瓦，对应 50 mOe 的微波驱动场强。
 右上角部分为微波发生装置，右下部分则为微波分析装置，左侧装置则为微波功率的精细调节装置。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG2.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG2.png)
 
 FIG.2 - 铁磁共振场与YIG晶相的关系。数据在室温、0.3毫瓦功率、9.5GHz的微波输入功率情况下采集。虚线表示“零各向异性场的铁磁共振位置”(zero anisotropy FMR position)。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG3.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG3.png)
 
 FIG.3 - [100]晶相的YIG 单晶球在室温和 9.5 GHz 下的上扫和下扫铁磁共振吸收曲线与入射功率的关系。从图中可以看到非常强的非线性效应，foldoverz转向低频。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG4.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG4.png)
 
 FIG.4 - [111]晶相的YIG 单晶球在室温和 9.5 GHz 下的上扫和下扫铁磁共振吸收曲线与入射功率的关系。从图中可以看到相对于[100]晶相，非线性效应反转，foldoverz转向高频。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG5.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG5.png)
 
 FIG.5 - [110]晶相的YIG 单晶球在室温和 9.5 GHz 下的上扫和下扫铁磁共振吸收曲线与入射功率的关系。从图中可以看到对比[100]和晶相，非线性效应最弱且趋势不明显。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG6.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG6.png)
 
 FIG.6 - [100]晶相的YIG 单晶球在室温和 9.5 GHz 下的上扫和下扫铁磁共振吸收曲线与扫场速率的关系。扫场速率越慢，则foldover曲线越精细。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG7.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG7.png)
 
 FIG.7 - 在最高微波功率下和最精细扫场速率下的三个晶相[100]、[110]和[111]的对比。
 箭头位置则为极低功率下无非线性效应的共振位置(依旧有各向异性场的影响)。
 虚线表示“零各向异性场的铁磁共振位置”(zero anisotropy FMR position)。
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG8.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG8.png)
 
 FIG.8 - [100]晶相的YIG 单晶球在室温和 9.5 GHz 下的上扫和下扫铁磁共振吸收曲线与平均功率的关系。该结果使用了100微秒的微波脉冲，而不是持续波。
 图中百分比代表占空比(duty cycle)，占空比越大，则非线性效应越明显。（宽度为100微秒、占空比低于1%的脉冲微波由于平均效应，几乎不显示非线性效应）
 
-![实验装置](../assets/images/YIG/10.1063-1.336167/FIG9.png)
+![实验装置](/YIGdata/assets/images/YIG/10.1063-1.336167/FIG9.png)
 
 FIG.9 - FIG.5中的结果，偏转磁场30度再测了一遍。显示出了非线性效应，然而这和理论预测并不相符。
 
