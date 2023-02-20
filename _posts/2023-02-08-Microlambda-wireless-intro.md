@@ -1,14 +1,18 @@
 ---
 layout: post
 title:  "Microlambda Wireless公司简介"
-author: yt
-categories: [magnetic material, research]
-image: "https://cdn.businessyab.com/assets/uploads/cb11b5bd07c6fecd0f5034457ea1b9d8_-united-states-california-alameda-county-fremont-baylands-landing-parkway-46515-micro-lambda-wireless-inc-510-770-9221.jpg"
+subtitle: "YIG全产品线的商业公司"
+categories: comment
+tags: [YIG产业研究]
 ---
+
 
 “世界上最大的基于 YIG 材料和组件的独立供应商，每年交付超过 20,000 件产品。”
 
 ### Microlambda Wireless —— 全线产品全部使用YIG材料
+
+![Microlamba]("https://cdn.businessyab.com/assets/uploads/cb11b5bd07c6fecd0f5034457ea1b9d8_-united-states-california-alameda-county-fremont-baylands-landing-parkway-46515-micro-lambda-wireless-inc-510-770-9221.jpg")
+
 
 Microlambda Wireless, Inc. 是一家总部位于美国硅谷的公司，成立于 1990 年，专门从事YIG相关的无线通信系统和组件的设计和制造。它为各种行业和应用提供微波元件、天线和微波系统（包括放大器系统和合成器系统）等产品。 Microlambda Wireless 以其创新的高性能无线解决方案以及为客户提供最佳服务和支持的承诺而闻名。公司规模为大约11人，年盈利约为630万美元。
 

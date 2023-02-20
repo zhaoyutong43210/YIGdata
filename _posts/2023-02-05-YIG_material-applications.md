@@ -1,16 +1,22 @@
 ---
 layout: post
-title:  "钇铁石榴石YIG材料的几种典型应用"
-author: yt
-categories: [magnetic material, research]
-image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Wiki-YIG.jpg"
+title:    "钇铁石榴石YIG材料的几种典型应用"
+subtitle: "滤波器、磁性传感器、微波放大器、自旋电子学器件、磁共振成像"
+categories: comment
+tags: [YIG产业研究, YIG科研进展]
 ---
 
+
 # 钇铁石榴石　材料介绍 - Yttrium iron garnet (YIG)
+
+![YIG]("https://upload.wikimedia.org/wikipedia/commons/1/11/Wiki-YIG.jpg")
+
+YIG单晶体
 
 ## 什么是钇铁石榴石？
 
 钇铁石榴石 (YIG) 是一种由钇、铁和氧元素组成的石榴石晶体。它以其出色的磁性和微波频率特性而闻名，使其成为包括微波滤波器、微波放大器和磁传感器在内的一系列技术中的稀土材料。
+
 
 ## 钇铁石榴石（YIG）有什么应用？
 
