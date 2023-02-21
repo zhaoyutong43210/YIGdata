@@ -2,7 +2,7 @@
 layout: post
 title:   "钇铁石榴石YIG材料的性质"
 subtitle: "磁滞回线、色散关系、线宽损耗、"
-categories: comment
+categories: 学术研究
 tags: [YIG产业研究, YIG科研进展]
 ---
 

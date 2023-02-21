@@ -2,7 +2,7 @@
 layout: post
 title:    "钇铁石榴石YIG材料的几种典型应用"
 subtitle: "滤波器、磁性传感器、微波放大器、自旋电子学器件、磁共振成像"
-categories: comment
+categories: 商业化应用
 tags: [YIG产业研究, YIG科研进展]
 ---
 

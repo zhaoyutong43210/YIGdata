@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "钇铁石榴石YIG的发展时间线"
-subtitle: "1985：YIG球的非线性效应与磁晶各项异性的早期研究"
-categories: comment
+subtitle: "看时间如何检验YIG材料"
+categories: 学术研究
 tags: [YIG科研进展, YIG相关文献]
 ---
 
@@ -17,3 +17,5 @@ tags: [YIG科研进展, YIG相关文献]
 ### 中期发展：平稳而有序
 
 ### 现代爆发式发展：暴风雨的前奏
+
+Coherent microwave emission of gain-driven polaritons

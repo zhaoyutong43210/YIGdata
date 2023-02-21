@@ -2,7 +2,7 @@
 layout: post
 title:  "Microlambda Wireless公司简介"
 subtitle: "YIG全产品线的商业公司"
-categories: comment
+categories: 商业化应用
 tags: [YIG产业研究]
 ---
 

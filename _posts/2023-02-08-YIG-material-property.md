@@ -2,7 +2,7 @@
 layout: post
 title: "YIG球中铁磁共振的低功率非线性效应 | 文献推荐：(10.1063/1.336167)"
 subtitle: "1985：YIG球的非线性效应与磁晶各项异性的早期研究"
-categories: comment
+categories: 学术研究
 tags: [YIG科研进展, YIG相关文献]
 ---
 
