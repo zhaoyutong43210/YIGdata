@@ -9,7 +9,9 @@ tags: [YIG产业研究, YIG科研进展]
 # YIG磁性材料中的新模式——《物理评论快报 Physical Review Letter》
 
 Rao, J. W., et al. "Unveiling a Pump-Induced Magnon Mode via Its Strong Interaction with Walker Modes." Physical Review Letters 130.4 (2023): 046705.
+
 [Physical Review Letter入口](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.046705)
+
 [arxiv链接](https://arxiv.org/pdf/2204.04590.pdf)
 
 近日，上海科技大学物质科学与技术学院、中国科学院上海技术物理研究所与华中科技大学物理学院的饶金威、姚碧沐与于涛、陆卫等研究人员，在磁动力学研究中，通过引入额外驱动，观测到了YIG的磁振子功率相关的反交叉的色散频谱，确认了泵浦诱导的磁振子模式的存在。新出现的模式与Walker模式强烈耦合且可通过多种方式调节。由于为磁动力系统，可隔绝电荷噪声的影响，因此可用于超低噪声的相干信息转换。并将相关发现发表在《物理评论快报 Physical Review Letter》上。
