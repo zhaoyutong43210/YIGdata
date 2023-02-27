@@ -6,7 +6,7 @@ categories: 学术研究
 tags: [YIG产业研究, YIG科研进展]
 ---
 
-# YIG磁性材料中的新模式——《物理评论快报 Physical Review Letter》 
+# YIG磁性材料中的新模式——《物理评论快报 Physical Review Letter》
 
 Rao, J. W., et al. "Unveiling a Pump-Induced Magnon Mode via Its Strong Interaction with Walker Modes." Physical Review Letters 130.4 (2023): 046705.
 [Physical Review Letter入口](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.046705)
@@ -15,15 +15,11 @@ Rao, J. W., et al. "Unveiling a Pump-Induced Magnon Mode via Its Strong Interact
 近日，上海科技大学物质科学与技术学院的饶金威、姚碧沐等研究人员，在磁动力学研究中，通过引入额外驱动，观测到了YIG的磁振子功率相关的反交叉的色散频谱，确认了泵浦诱导的磁振子模式的存在。新出现的模式与Walker模式强烈耦合且可通过多种方式调节。由于为磁动力系统，可隔绝电荷噪声的影响，因此可用于超低噪声的相干信息转换。并将相关发现发表在《物理评论快报 Physical Review Letter》上。
 doi: PhysRevLett.130.046705
 
-### 泵浦诱导的磁振子模式(Pump induced Magnon Mode - PIM) 
+### 泵浦诱导的磁振子模式(Pump induced Magnon Mode - PIM)
 
 通过泵功率、频率和波形来控制这种反交叉的色散。
 
 用共面波导(coplanar waveguide)激发的YIG球，Walker模式是Uniform的模式，其中全部的自旋激发均为同向。这也是最强、最常用、最经典的模式，通过球谐函数求解的[110]模式。
-
-
-
-通过引入额外驱动，YIG的磁振子观测到了功率相关的反交叉的色散频谱。新出现的模式与Walker模式强烈耦合且可通过多种方式调节，由于为磁动力系统，可隔绝电荷噪声的影响，因此可用于超低噪声的相干信息转换。
 
 ### 实验装置
 
@@ -38,14 +34,45 @@ doi: PhysRevLett.130.046705
 
 ![图片](/YIGdata/assets/images/YIG/PhysRevLett.130.046705/2.png)
 
+(a). 无泵浦情况下，扫磁场的色散图谱。
+
+(b). 固定泵浦频率在3.40GHz，耦合出现。
+
+(c-d). 线宽交换与振幅交换。证明这是典型的相干耦合。
+
+(e). 相互作用示意图，PIM与Walker模式如何耦合。
+
+
 ### YIG中Walker模式与PIM耦合的 功率调控 以及 时间分辨调控
 
 ![图片](/YIGdata/assets/images/YIG/PhysRevLett.130.046705/3.png)
+
+(a). 典型的强耦合。通过固定磁场，并调节泵浦的频率，Walker mode和PIM之间发生了典型的反交叉色散(相干耦合)。
+
+(b). 随着泵浦功率的增加，则可以看到谱线的劈裂越来越大，也意味着耦合强度逐渐增大。
+
+(c). 耦合强度和泵浦功率的1/4次方成正比。
+
+(d-i). 使用时变泵浦的结果，随着给泵浦加上单节拍(d)、双节拍(e)、三节拍(f)的调制，谱线形态也随之发生改变。
 
 ### Walker模式PIM的耦合中出现的频率梳
 
 ![图片](/YIGdata/assets/images/YIG/PhysRevLett.130.046705/4.png)
 
-(a) 在不加磁场的情况下。
+(a). 在不加磁场的情况下。频谱分析仪测量的功率密度谱，和探测微波频率的关系。 从途中可见，没有Walker模式存在的时候，无法看到频率梳。
 
-## 结论
+(b). 在加磁场的情况下，将Walker模式频率调谐到与泵浦频率一致。此时色散图中明显出现一阶模式。
+
+(c). 由于交叉克尔效应(非线性)，还观测到了频率梳，很明显可以见到一阶、二阶、三阶的模式。
+
+(d). 证明了VNA与SA测量的一致性。从多个角度加强了数据的可信度。
+
+(e). 一阶模式的振幅与泵浦频率的关系。其中两个最大值对应两个耦合模式的理论模型的特征值。
+
+## 意义
+
+* 高自旋材料YIG材料球体中除了传统上使用球谐函数求解出的[110]模式和其他静磁模[xyz]，通过引入额外驱动，产生了全新的泵浦诱导的磁振子模式 - PIM。
+
+* PIM继承了泵浦的高度可调性，为自旋电子学注入了新的活力。
+
+* 由于为磁动力系统，可隔绝电荷噪声的影响，因此可用于超低噪声的相干信息转换。
